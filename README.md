@@ -8,9 +8,7 @@ URL Documentación: https://rickandmortyapi.com/documentation/#rest
 
 <h4>Se recomienda seguir el siguiente instructivo: </h4>
 
-1.) Cargar todas las dependencias del proyecto utilizando el comando: <strong> npm install</strong>  <br>
-2.) Luego esperar que descargue todas las dependencias asociadas al paso anterior<br>
-3.) Generar JsDoc utilizando el comando:  <strong> npm run docs</strong>  <br>  
+1.) Cargar todas las dependencias del proyecto utilizando el comando: <strong> npm install</strong> <br>
+2.) Luego esperar que descargue todas las dependencias asociadas al paso anterior <br>
+3.) Generar JsDoc utilizando el comando: <strong> npm run docs</strong><br> 
 4.) Finalmente para ejecutar suite, ingrese comando: <strong> npm test </strong><br>
-5.) Una vez finalizada la ejecución ir a la ruta del proyecto <strong> ExtentReports -> Reporte.html y abrir con el navegador que se desee </strong> <br>
-
