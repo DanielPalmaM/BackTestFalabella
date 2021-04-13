@@ -1,6 +1,6 @@
 # <h1>BackTestFalabella</h1>
 
-Proyecto MPM desarrollado en NodeJS y patron de diseño Modelo Creacional. Para la documentación se utilizó JSDoc
+Proyecto NPM desarrollado en NodeJS y patron de diseño Modelo Creacional. Para la documentación se utilizó JSDoc
 
 La Suite permite probar el Back de la API Rick & Morty y cuenta con 5 tests:
 URL API: https://rickandmortyapi.com/
