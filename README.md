@@ -2,8 +2,8 @@
 
 Proyecto NPM desarrollado en NodeJS y patron de diseño Modelo Creacional. Para la documentación se utilizó JSDoc
 
-La Suite permite probar el Back de la API Rick & Morty y cuenta con 5 tests:
-URL API: https://rickandmortyapi.com/
+La Suite permite probar el Back de la API Rick & Morty y cuenta con 5 tests: <br>
+URL API: https://rickandmortyapi.com/ <br>
 URL Documentación: https://rickandmortyapi.com/documentation/#rest
 
 <h4>Se recomienda seguir el siguiente instructivo: </h4>
